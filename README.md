@@ -1,5 +1,8 @@
 
 
+
+sh kali-ganglia-deploy-server-node.sh
+
 point to this once running the main node
 http://127.0.0.1/ganglia/
 
