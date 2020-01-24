@@ -11,4 +11,6 @@ docker run -it -d  --network="host" --restart="always" --privileged=true \
 --entrypoint "/sbin/init" \
 c4pt/kali-ganglia-main-monitor-unit:web-main-unit
 
-docker exec -it kali-ganglia-mainunit /bin/bash
+docker exec -it kali-ganglia-mainunit /bin/bash &
+
+firefox http://127.0.0.1/ganglia
