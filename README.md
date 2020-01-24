@@ -1,5 +1,7 @@
 
 
+port 80, 53, 8649
+dependent with current configs
 
 sh kali-ganglia-deploy-server-node.sh
 <br>
@@ -15,8 +17,16 @@ should be active for localhost server node
 <br>
 <br>
 
-<br><br>
 
+sh 2nd_distribute_per_lan_every-machine-kali-ganglia-client-node.sh
+
+for each client node machine hopefully lan
+<br><br>
+client instance
+root@kali:/# ps ax | grep mon
+    121 ?        Rsl    0:22 /usr/sbin/gmond --pid-file /var/run/gmond.pid
+    140 pts/1    S+     0:00 grep mon
+root@kali:/# 
 <br><br>
 
 <br>
