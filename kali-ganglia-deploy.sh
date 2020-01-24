@@ -9,8 +9,7 @@ docker run -it -d --network="host" --restart="always" --privileged=true \
 -v /sys/fs/cgroup:/sys/fs/cgroup:ro \
 -v /tmp/.X11-unix:/tmp/.X11-unix \
 --entrypoint "/sbin/init" \
--p 80:80 \
--p 8649:8649 \
+
 c4pt/kali-ganglia-main-monitor-unit:web-main-unit
 
-docker exec -it c4pt/kali-ganglia-main-monitor-unit:web-main-unit /bin/bash
+docker exec -it kali-ganglia-mainunit /bin/bash
