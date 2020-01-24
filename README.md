@@ -1,6 +1,13 @@
+original source: https://github.com/kurthuwig/docker-ganglia
+
+this is a WIP to package gangila distributed computing server/client into kali penetration linux as a docker deployment for server and client
+
+
+
 
 
 port 80, 53, 8649
+
 dependent with current configs
 
 sh kali-ganglia-deploy-server-node.sh
