@@ -5,6 +5,14 @@ docker run -t -i kalilinux/kali-linux-docker /bin/bash
  <br>
  apt-get update && apt-get install metasploit-framework && apt-get install ganglia*
 <br>
+<br>
+
+<br><br>
+
+<br><br>
+
+<br>
+<br>
 ```
 docker build .
 ```
