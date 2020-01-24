@@ -20,7 +20,15 @@ WIP
 <br>
 ganglia running under docker kali images with ganglia enabled
 <br>
+* image 1 main image as master or main controlling node
+<br>
 docker ganglia main monitor
+<br>
+* distributed computing via Docker deployable
+<br>
+* image 2-> etc multiple deployable image each image acts as a client connection to send resources to image 1 each of these 
+<br>
+images is a secondary node or slave node to distribute resources to main node "image 1" being the master node
 <br>
 docker ganglia deployable client to connect to main monitor
 <br>
