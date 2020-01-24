@@ -1,9 +1,5 @@
-<br>
-docker pull kalilinux/kali-linux-docker 
-<br>
-docker run -t -i kalilinux/kali-linux-docker /bin/bash
- <br>
- apt-get update && apt-get install metasploit-framework && apt-get install ganglia*
+docker pull c4pt/kali-ganglia-main-monitor-unit:web-main-unit 
+
 <br>
 <br>
 
