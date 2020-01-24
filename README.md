@@ -1,3 +1,5 @@
+docker build --tag=“ganglia-web”  .
+
 Supported tags and respective `Dockerfile` links
 ================================================
 
