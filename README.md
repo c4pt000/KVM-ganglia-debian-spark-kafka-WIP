@@ -13,9 +13,20 @@ docker run -t -i kalilinux/kali-linux-docker /bin/bash
 
 <br>
 <br>
-```
+
+https://github.com/ganglia/monitor-core/wiki/Ganglia-Quick-Start#Installation
+<br>
+WIP
+<br>
+ganglia running under docker kali images with ganglia enabled
+<br>
+docker ganglia main monitor
+<br>
+docker ganglia deployable client to connect to main monitor
+<br>
+
 docker build .
-```
+<br>
 Supported tags and respective `Dockerfile` links
 ================================================
 
