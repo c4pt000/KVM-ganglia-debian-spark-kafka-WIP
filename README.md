@@ -1,4 +1,7 @@
-docker pull c4pt/kali-ganglia-main-monitor-unit:web-main-unit 
+
+
+point to this once running the main node
+http://127.0.0.1/ganglia/
 
 <br>
 <br>
