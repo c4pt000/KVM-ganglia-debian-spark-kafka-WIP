@@ -4,6 +4,7 @@ MAINTAINER Kurt Huwig
 
 RUN apt-get update \
     && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+    apt-utils \
       ganglia-monitor \
       ganglia-webfrontend \
       gmetad \
