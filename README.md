@@ -2,10 +2,16 @@
 
 
 sh kali-ganglia-deploy-server-node.sh
-
+<br>
 point to this once running the main node
+<br>
 http://127.0.0.1/ganglia/
 
+(if no firefox, firedog, firecat, firerat)
+<br>
+use chrome to browse http://127.0.0.1/ganglia
+<br>
+should be active for localhost server node
 <br>
 <br>
 
