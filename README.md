@@ -3,14 +3,15 @@ original source: https://github.com/kurthuwig/docker-ganglia
 this is a WIP to package gangila distributed computing server/client into kali penetration linux as a docker deployment for server and client
 
 
-
+wget https://github.com/c4pt000/docker-ganglia-kali-WIP/blob/master/1st_server-kali-ganglia-deploy-server-node.sh
 
 
 port 80, 53, 8649
 
 dependent with current configs
 
-sh kali-ganglia-deploy-server-node.sh
+sh 1st_server-kali-ganglia-deploy-server-node.sh
+
 <br>
 point to this once running the main node
 <br>
@@ -25,7 +26,6 @@ should be active for localhost server node
 <br>
 
 
-sh 2nd_distribute_per_lan_every-machine-kali-ganglia-client-node.sh
 
 for each client node machine hopefully lan
 <br><br>
