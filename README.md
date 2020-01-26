@@ -1,5 +1,17 @@
+* update 01-26-2020
+<br>
+THIS IS STILL LABELED A WIP (work in progress)
+<br>
+attempted to remove machine "halt and catch fire" from conflict over System Process ID 1 between server and client
+<br>
+attempting to get interconnection of server/client to respond via multicast ip paths, (still two other projects 24 hrs 
+<br>
+incremental changes beside this)
+<br>
+see komorebi-centos for batch editing of config for placement of screensaver wallpaper,
+<br>
 original source: https://github.com/kurthuwig/docker-ganglia
-
+<br>
 this is a WIP to package gangila distributed computing server/client into kali penetration linux as a docker deployment for server and client
 
 
