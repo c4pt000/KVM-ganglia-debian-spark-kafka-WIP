@@ -14,7 +14,7 @@ in this file to prevent inconsistent name resolusion from DNS.
     127.0.0.1   localhost
     #127.0.1.1    node00.mydomain.com   node00
 
-### Master
+### server
 
     apt-get install gridengine-master gridengine-client gridengine-qmon
 
