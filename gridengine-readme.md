@@ -3,7 +3,7 @@ Grid engine
 
 The configuration is the following.
 
- * `node00`: Grid master. This node has the alias name `grid`.
+ * `node00`: Grid server. This node has the alias name `grid`.
  * others: Grid execution nodes.
 
 Make sure Java is available in all nodes (via `default-jre` package).
