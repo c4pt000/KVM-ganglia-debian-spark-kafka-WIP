@@ -15,3 +15,6 @@ apt-get update
 
 
 https://cwiki.apache.org/confluence/display/BIGTOP/How+to+install+Hadoop+distribution+from+Bigtop+0.5.0#HowtoinstallHadoopdistributionfromBigtop0.5.0-Ubuntu(64bit,lucid,precise,quantal)
+
+
+sudo apt-get install hadoop\* flume-* mahout\* oozie\* whirr-* hive\*
