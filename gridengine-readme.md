@@ -20,7 +20,7 @@ in this file to prevent inconsistent name resolusion from DNS.
 
 The install process asks for basic mail setup and grid configuration.
 Set up the host as the Internet site and specify `node00.mydomain.com`
-as the master, which is the alias for `node00`.
+as the server, which is the alias for `node00`.
 
     qconf -aq main.q  # to add main.q
     qconf -mq main.q  # to edit main.q
@@ -31,7 +31,7 @@ Look at the cheat sheet
 
 The basic things to set up are:
 
- * Add node00 to master and submission hosts.
+ * Add node00 to server and submission hosts.
  * Add other nodes to submission and execution hosts.
  * Create `@exec` group and add execution nodes.
  * Create a parallel envirionment called `default` and set 12 slots.
@@ -44,7 +44,7 @@ The basic things to set up are:
 
 The install process asks for basic mail setup and grid configuration.
 Set up the host as the Internet site and specify `mydomain.com`
-as the master, which is the alias for `node00`.
+as the server, which is the alias for `node00`.
 
 Often, the `gridengine-exec` service fails to start. In that case, don't use
 `service gridengine-exec restart` because it doesn't work. Instead, look for
