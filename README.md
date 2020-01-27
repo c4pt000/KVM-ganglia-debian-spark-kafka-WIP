@@ -115,6 +115,7 @@ and the corresponding [docker-compose](http://docs.docker.com/compose/) (or [fig
        - /path_to_directory/data:/var/lib/ganglia
 
 If the `etc` directory does not contain a configuration, a default configuration will be created.
+https://hub.docker.com/r/bigtop/slaves/tags/
 
 Accessing the web GUI
 =====================
