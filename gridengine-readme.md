@@ -1,3 +1,5 @@
+https://spark.apache.org/docs/latest/streaming-kafka-0-10-integration.html
+
 Grid engine
 -----------
 
