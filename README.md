@@ -132,9 +132,18 @@ If you want to have it on another port, in the same line change the `80` to the 
 Environment variables
 =====================
 
-The container uses no environment variables
 
-Contact
-=======
 
-Kurt Huwig (@GMail.com: kurthuwig)
+
+
+
+
+
+
+
+
+
+
+https://www.binance.com/en/buy-sell-crypto/channel-list/buy/USD/BTC/10
+
+on average its $5.00 USD to transmit bitcoin on most websites dealing with bitcoin
